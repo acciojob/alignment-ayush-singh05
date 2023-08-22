@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+table{
+        width: 100%;
+        border: 1px solid black;
+    }
+    thead,th,tr{
+        border: 1px solid black;
+    }
+    h1{
+        text-align: center;
+    }
+    #table-2{
+        height: 100px;
+    }
+    #table-,th{
+        height: 4vh;
+    }
